@@ -20,7 +20,7 @@ nguoi_phu_thuoc = st.number_input(
     value=0
 )
 
-if st.button("🧮 Tính thuế TNCN"):
+if st.button("Tính thuế TNCN"):
 
     # Giảm trừ bản thân
     giam_tru_ban_than = 11000000
