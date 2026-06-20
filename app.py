@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("💰 ỨNG DỤNG TÍNH THUẾ THU NHẬP CÁ NHÂN - Trần Thị Diệu Linh")
-
+st.image("Screenshot_2026-06-16-15-36-34-273_com.miui.gallery-edit.jpg")
 thu_nhap = st.number_input(
     "Thu nhập chịu thuế/tháng (VNĐ)",
     min_value=0,
