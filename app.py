@@ -5,7 +5,7 @@ st.set_page_config(page_title="Tính thuế TNCN · Streamlit", page_icon="💰"
 
 # 2. Hiển thị ảnh đại diện hình tròn (Giống ảnh đầu tiên)
 # Bạn hãy thay link ảnh này bằng đường link ảnh cá nhân của bạn nếu muốn nhé
-avatar_url = "https://unsplash.com" 
+avatar_url = "Screenshot_2026-06-16-15-36-34-273_com.miui.gallery-edit.jpg" 
 st.markdown(
     f"""
     <div style="display: flex; justify-content: left; margin-bottom: 20px;">
@@ -19,7 +19,8 @@ st.markdown(
 st.markdown(
     """
     <h1 style="font-size: 38px; font-weight: 800; line-height: 1.3; color: #111111; margin-bottom: 5px;">
-        💰 ỨNG DỤNG TÍNH THUẾ THU NHẬP CÁ NHÂN_Nguyễn Văn A
+        💰 ỨNG DỤNG TÍNH THUẾ THU NHẬP CÁ NHÂN_Trần Thị Diệu Linh 
+
     </h1>
     """, 
     unsafe_allow_index=True
